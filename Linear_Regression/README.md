@@ -12,5 +12,5 @@ This project demonstrates a simple linear regression model, implemented from scr
 
 1. Clone the repository.
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/NoumanSultan/MachineLearning/tree/main/Linear_Regression)>
    cd Linear_Regression_Project
